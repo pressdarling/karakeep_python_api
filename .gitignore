@@ -1,6 +1,6 @@
 .aider*
 **/__pycache__
-.env*
+.env
 *.egg-info
 *author*
 **/*log
